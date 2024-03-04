@@ -19,3 +19,15 @@ Continuous deployment, on the other hand, takes the idea of automating build, te
 
 > [!IMPORTANT]
 > CI/CD are DevOps methods that serve to improve the workflow. They are used to test automated builds and test systems more quickly and to provide better and faster feedback.
+
+## IoT – What does it mean and where to use it 
+IoT is the Internet of Things. It is a term used to describe the technologies and global infrastructure of information societies that enable physical and virtual objects to be networked with each other and to work together using information and communication technologies.
+
+<img src="https://blog.item24.com/item-wp-content/uploads/2022/09/internet-of-things-iot-einfach-erklaert-item-blog-artikelbild-neu.jpg" >
+
+> [!TIP]
+> Personally, I would use it to network my devices, the easiest and most efficient way to use my devices in my home.
+
+Even today, IoT concepts are already being used to make life at easier, for example SmartHome is the smart and efficient way to control your home.
+
+## Bicep – Microsoft Language for Resources
