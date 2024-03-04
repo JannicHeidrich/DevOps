@@ -15,4 +15,7 @@ Continuous deployment, on the other hand, takes the idea of automating build, te
 <img src="https://www.jetbrains.com/teamcity/ci-cd-guide/continuous-deployment/img/Continuous_deployment_desktop.png" >
 
 > [!NOTE]
+> CI/CD allows many teams to publish more frequent updates without having to compromise on quality. With CI/CD, code changes run through an automated pipeline that takes over build, test and deployment tasks and > alerts in the event of problems.
+
+> [!IMPORTANT]
 > CI/CD are DevOps methods that serve to improve the workflow. They are used to test automated builds and test systems more quickly and to provide better and faster feedback.
