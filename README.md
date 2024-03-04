@@ -7,12 +7,9 @@ DevOps combies development and operations to incerease the efficiency, speed, an
 <img src="https://images.ctfassets.net/xz1dnu24egyd/2S16xLgZGnBkxXgFVQOrxv/24e5808aba2b4c7024c15daa6b6ef5f7/loop-white.svg" width="350" height="350">
 </p>
 
-- Zusammenhang mit Softwareentwicklung?
-  - ...
-  
-- What is CI/CD and what is it for?
-  - CI = Continuous Integration => Kontinuierliche Integration
-    - Zusammenfassung des Codes in einem Repository, für Tests und Automatisierte Prozesse.
+CI/CD exists to help these processes. CI stands for "Continuous Integration" (Kontinuierliche Integration), CI is about the regular transfer of code changes from all project members to a central repository. The goal is to create a reliable process for compiling and providing software, by promoting collaboration, automation and feedback cycles. Ideally, this process should be automated and run several times a day.
+<img src="https://www.jetbrains.com/teamcity/ci-cd-guide/continuous-integration/img/Continuous_integration_desktop.png" >
+
   - CD = Contonuous Delivery =>
     - ...
   - CD = continuous Deployment =>
