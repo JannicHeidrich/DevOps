@@ -20,7 +20,7 @@ Continuous deployment, on the other hand, takes the idea of automating build, te
 > [!IMPORTANT]
 > CI/CD are DevOps methods that serve to improve the workflow. They are used to test automated builds and test systems more quickly and to provide better and faster feedback.
 
-## IoT – What does it mean and where to use it 
+## IoT – What does it mean and where to use it ?
 IoT is the Internet of Things. It is a term used to describe the technologies and global infrastructure of information societies that enable physical and virtual objects to be networked with each other and to work together using information and communication technologies.
 
 <img src="https://blog.item24.com/item-wp-content/uploads/2022/09/internet-of-things-iot-einfach-erklaert-item-blog-artikelbild-neu.jpg" >
@@ -31,3 +31,25 @@ IoT is the Internet of Things. It is a term used to describe the technologies an
 Even today, IoT concepts are already being used to make life at easier, for example SmartHome is the smart and efficient way to control your home.
 
 ## Bicep – Microsoft Language for Resources
+Bicep is a Domain Specific Language (DSL) for deploying Azure resources declaratively. It goal is to simplify the authoring experience with a cleaner syntax, improve type safety and better support for modularity and code reuse. Bicep is transparent, that means anything what can be done in ARM Template can be done in Bicep.
+
+<img src="https://miro.medium.com/v2/resize:fit:1400/1*KLJZ51orXe6zf7NTUhg5gA.png" >
+
+Bicep code is transpiled into ARM template JSON files, which effectively treats the ARM template as an intermediate language. In addition, the language should be transparent at all times for all underlying platforms.
+
+> [!NOTE]
+> Declaratively: The description of the problem is in the foreground. The solution is calculated automatically. <br>
+> Transpiled: Is the process of converting source code from one programming language to another.
+
+## Azure Subscription, Resource Groups
+Azure Subscription is an arrangement with Microsoft for the use of one or more cloud platforms or services that is used for provision, control and billing. After creating an Azure account, you get free access to all Azure services for 12 months. In total there are more than 55 Azure services.
+
+<img src="https://learn.microsoft.com/en-us/azure/cloud-adoption-framework/ready/azure-setup-guide/media/organize-resources/scope-levels.png" >
+
+Resource groups are containers that contain related resources for Azure solutions. The resource group can contain all resources for the solution or only the resources that you want to manage as a group. The resource group stores metadata about the resources.
+
+> [!IMPORTANT]
+> Therefore, when you specify a location for the resource group you are specifying where that metadata is stored. For compliance reasons, you may need to ensure that your data is stored in a particular region.
+
+## Blob – Storage Type and what to store in it ?
+Blob storage is a type of cloud storage for unstructured data. A "blob", short for binary large object, is a mass of data in binary form that does not necessarily match a file format.
