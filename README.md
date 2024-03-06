@@ -60,17 +60,17 @@ Resource groups are containers that contain related resources for Azure solution
 
 ## Git – Source Control
 Git is a shared version control system that enables software development teams to create multiple separate local copies of the project's code base.
-### Informationen zu Pull Request
+### Information about Pull Request
 A pull request is a proposal to merge a set of changes from one branch into another. In a pull request, project members can review and discuss the proposed changes before integrating the changes into the standard code base. Pull requests also show the differences between the content in the source branch and the content in the target branch.
 > [!NOTE]
 > - When working in the shared repository model, it is recommended to use a topic branch for your pull request. While you can send pull requests from any branch or commit, a topic branch allows you to push follow-up commits when you need to update your submitted changes.
 > - You should be careful when pushing to avoid committing on the main branch. You also have to be careful not to change the history of the repository too much when you force push.
-### Informationen zu Branch
+### Information about Branch
 Branches allow you to develop features, fix bugs and safely experiment with new ideas in an area of your repository. You always create a branch from an existing branch. Normally you would create a new branch from the standard branch of your repository. You can then work in this branch regardless of changes made by other people in the repository.
 
 <img src="https://docs.github.com/assets/cb-2058/mw-1440/images/help/branches/pr-retargeting-diagram1.webp">
 
-### Informationen zu Commit
+### Information about Commit
 Similar to saving a file that has been edited, a commit records changes to one or more files in your branch. Git assigns each commit a unique ID, known as a SHA or hash. This identifies the following:
 
 - The respective changes
