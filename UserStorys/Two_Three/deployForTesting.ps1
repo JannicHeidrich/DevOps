@@ -28,5 +28,5 @@ elseif ($environment -eq 'prod') {
     DeployToProd
 }
 else {
-    Write-Host "Invalid environment parameter. Please use 'dev', 'test', or 'main'."
+    Write-Host "Invalid environment parameter. Please use 'dev', 'test', or 'prod'."
 }
