@@ -39,4 +39,4 @@ Now we come to the real test. The first thing that is checked here is if the str
             Write-Output "Test Unsuccessfull"
         }
     }
-So that's the end of our little documentary, I really hope you enjoyed it. If you want to see another project of mine click [here](https://github.com/HeidrichJannic/WeatherApp-WeatherLabs) or [here.](https://www.youtube.com/watch?v=dQw4w9WgXcQ&list=RDMMtbkOZTSvrHs&index=6&ab_channel=RickAstley)
+So that's the end of our little documentary, I really hope you enjoyed it. If you want to see another project of mine click [here](https://github.com/HeidrichJannic/WeatherApp-WeatherLabs) or [here.](https://www.youtube.com/watch?v=QdezFxHfatw&ab_channel=GlyphoricVibes)
