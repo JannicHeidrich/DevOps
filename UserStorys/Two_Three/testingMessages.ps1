@@ -28,12 +28,12 @@ function SendAndTestMessageToDev {
     $string = Get-Content -Path $destinationPath -Raw
 
     # Checking if file contains the message
-    if ($null -eq $string -or $string -eq "") {
-        Write-Output "File is empty. Test Unsuccessful."
-    } elseif ($string.Contains($message)) {
-        Write-Output "Test Successful"
-    } else {
-        Write-Output "Test Unsuccessful"
+    if ($string.Equals('') -or $string.Equals($null)){
+        if ($string.Contains($message)) {
+            Write-Output "Test Successfull"
+        } else {
+            Write-Output "Test Unsuccessfull"
+        }
     }
 }
 
